@@ -1,0 +1,4 @@
+Django>=5.2,<6
+gunicorn>=23,<25
+whitenoise>=6,<7
+timezonefinder>=6,<9
